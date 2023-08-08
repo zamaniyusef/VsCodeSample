@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SampleNet8.props" />
+</Project>

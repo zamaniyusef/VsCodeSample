@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Sample\\SampleNet8\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\Sample\\SampleNet8\\obj\\Debug\\net8.0\\compressed\\n5e2hro0ar.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\Sample\\SampleNet8\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Sample\\SampleNet8\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SampleNet8.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SampleNet8.props",
+      "PackagePath": "build\\SampleNet8.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SampleNet8.props",
+      "PackagePath": "buildMultiTargeting\\SampleNet8.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SampleNet8.props",
+      "PackagePath": "buildTransitive\\SampleNet8.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
